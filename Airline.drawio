@@ -60,7 +60,7 @@
           <mxGeometry x="640" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bTbu85uykv1qYZbqekr0-19" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="360" y="870" width="200" height="60" as="geometry" />
+          <mxGeometry x="360" y="870" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bTbu85uykv1qYZbqekr0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" parent="1" source="bTbu85uykv1qYZbqekr0-21" target="bTbu85uykv1qYZbqekr0-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
