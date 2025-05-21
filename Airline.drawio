@@ -54,7 +54,7 @@
           <mxGeometry x="640" y="210" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bTbu85uykv1qYZbqekr0-11" value="Registered" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="651" y="221" width="140" height="40" as="geometry" />
+          <mxGeometry x="651" y="220" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="bTbu85uykv1qYZbqekr0-12" value="Reservation Operation" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="520" width="160" height="80" as="geometry" />
