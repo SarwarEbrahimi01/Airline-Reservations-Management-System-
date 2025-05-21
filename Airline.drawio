@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XDC1g_R-5amsgsJcSVQO-21" value="&lt;h1&gt;&lt;i&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(102, 178, 255));&quot;&gt;The First ER diagram&lt;/font&gt;&lt;/i&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-70" width="575" height="60" as="geometry" />
+          <mxGeometry x="160" y="-80" width="575" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g8ojwEXrgFPtRHTycwO1-9" value="Seat_Details" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-930" y="470" width="190" height="150" as="geometry" />
