@@ -1551,8 +1551,8 @@
         <mxCell id="hYxJB9AUU4YdrlnjKPRh-13" value="Payment" style="whiteSpace=wrap;html=1;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="2098" y="657.35" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hYxJB9AUU4YdrlnjKPRh-20" value="Boss" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=25;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="2300" y="760" width="100" height="40" as="geometry" />
+        <mxCell id="hYxJB9AUU4YdrlnjKPRh-20" value="Boss" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hYxJB9AUU4YdrlnjKPRh-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="hYxJB9AUU4YdrlnjKPRh-20" edge="1">
           <mxGeometry relative="1" as="geometry">
