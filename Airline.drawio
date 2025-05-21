@@ -1360,13 +1360,13 @@
           <mxGeometry x="1270" y="720" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IXy6tgzgP0XGfWNyuIcs-241" value="Currency" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="820" width="100" height="40" as="geometry" />
+          <mxGeometry x="1270" y="820" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IXy6tgzgP0XGfWNyuIcs-242" value="TAX" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" parent="1" vertex="1">
-          <mxGeometry x="1465" y="900" width="100" height="30" as="geometry" />
+        <mxCell id="IXy6tgzgP0XGfWNyuIcs-242" value="payment_Sue_YN" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" parent="1" vertex="1">
+          <mxGeometry x="1421" y="900" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IXy6tgzgP0XGfWNyuIcs-243" value="Discount" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" parent="1" vertex="1">
-          <mxGeometry x="1605" y="840" width="100" height="40" as="geometry" />
+          <mxGeometry x="1682.5" y="850" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IXy6tgzgP0XGfWNyuIcs-244" value="Final_Amount" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" parent="1" vertex="1">
           <mxGeometry x="1720" y="720" width="100" height="40" as="geometry" />
@@ -1576,6 +1576,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1073" y="341" as="sourcePoint" />
             <mxPoint x="1191" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XOE4WaIWHzcGc-XP6AD4-10" value="Tax" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="880" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOE4WaIWHzcGc-XP6AD4-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.152;exitY=0.175;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;backgroundOutline=0;exitPerimeter=0;" edge="1" parent="1" source="XOE4WaIWHzcGc-XP6AD4-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="900" as="sourcePoint" />
+            <mxPoint x="1517" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
