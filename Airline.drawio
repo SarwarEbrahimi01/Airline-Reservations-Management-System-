@@ -253,7 +253,7 @@
             <mxRectangle width="30" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g8ojwEXrgFPtRHTycwO1-15" value="Travel_Class_ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="g8ojwEXrgFPtRHTycwO1-13" vertex="1">
+        <mxCell id="g8ojwEXrgFPtRHTycwO1-15" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Travel_Class_ID&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="g8ojwEXrgFPtRHTycwO1-13" vertex="1">
           <mxGeometry x="30" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
