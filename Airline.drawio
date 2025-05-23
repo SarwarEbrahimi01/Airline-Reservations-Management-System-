@@ -1408,7 +1408,7 @@
             <mxPoint x="1720" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IXy6tgzgP0XGfWNyuIcs-250" value="Pasenger" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" parent="1" vertex="1">
+        <mxCell id="IXy6tgzgP0XGfWNyuIcs-250" value="TRAVELLER&amp;nbsp;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" parent="1" vertex="1">
           <mxGeometry x="1800" y="470" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IXy6tgzgP0XGfWNyuIcs-251" value="Country" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;backgroundOutline=0;" parent="1" vertex="1">
