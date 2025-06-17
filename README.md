@@ -5,7 +5,7 @@ database that could be useful for the aimed organizations.
 # 📷 The Diagram Samples
 ![Airline drawio (3)](https://github.com/user-attachments/assets/897326f6-d318-4a6c-b7ea-68a0ef10dcb2)
 
-## 🛫 **Flight Booking System - Entity Diagram Project**
+## 🛫 **Flight Booking System - Entity Relationship Diagram Project**
 
 An innovative and structured **Flight Booking System** designed for efficient airline operations. This project models the key processes of airline management — including flight scheduling, passenger reservations, seat management, service add-ons, and payment processing — using a well-defined and advanced entity-relationship (ER) diagram.
 
