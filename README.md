@@ -3,7 +3,8 @@ The Project goal is to create the Entity Relation Diagram for the Airline Reserv
 The contributors are going to enhacce skills like team working, problem solving, and make a 
 database that could be useful for the aimed organizations.
 # 📷 The Diagram Samples
-![Airline drawio (3)](https://github.com/user-attachments/assets/897326f6-d318-4a6c-b7ea-68a0ef10dcb2)
+![Airline drawio (4)](https://github.com/user-attachments/assets/64d005fb-70ca-4e1d-ae38-b6525c6fa193)
+
 
 ## 🛫 **Flight Booking System - Entity Relationship Diagram Project**
 
@@ -44,10 +45,20 @@ This project was created as part of a design and modeling exercise to produce a 
 ---
 
 ### 🖼️ **Visual Overview**
+Final Draft Diagram
+![Airline Reservation](https://github.com/user-attachments/assets/3a0930ad-8792-4acd-80f6-e2c6438bbbd5)
+
 
 
 
 *The ER diagram showcases key entities such as Airlines, Airports, Flights, Passengers, Reservations, Payments, and Services, along with their relational mappings.*
+
+### Contributors Of The Project
+Sarwar Ebrahimi
+
+Shafiullah Haidary
+
+Hassib Hussaini
 
 
 
