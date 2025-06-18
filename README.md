@@ -45,7 +45,7 @@ This project was created as part of a design and modeling exercise to produce a 
 
 ### 🖼️ **Visual Overview**
 
-[Click here to view the Flight Booking System Diagram](#)
+
 
 *The ER diagram showcases key entities such as Airlines, Airports, Flights, Passengers, Reservations, Payments, and Services, along with their relational mappings.*
 
