@@ -3,7 +3,7 @@ The Project goal is to create the Entity Relation Diagram for the Airline Reserv
 The contributors are going to enhacce skills like team working, problem solving, and make a 
 database that could be useful for the aimed organizations.
 # 📷 The Diagram Samples
-![Airline drawio (4)](https://github.com/user-attachments/assets/64d005fb-70ca-4e1d-ae38-b6525c6fa193)
+![Airline drawio (6)](https://github.com/user-attachments/assets/9217ca47-745a-4700-8e9b-51ae09c89105)
 
 
 ## 🛫 **Flight Booking System - Entity Relationship Diagram Project**
@@ -14,8 +14,8 @@ An innovative and structured **Flight Booking System** designed for efficient ai
 
 ### 📁 **Project Files**
 
-- **flight-booking-entity-diagram.png** – A detailed ER diagram illustrating the workflow and structure of the flight booking system.
-- **flight-management-overview.pptx** – A presentation providing a step-by-step walkthrough of the system's entities and relationships.
+- **Airline.drawio** – A detailed ER diagram illustrating the workflow and structure of the flight booking system.
+- **Airline-Reservation-System.pptx** – A presentation providing a step-by-step walkthrough of the system's entities and relationships.
 
 ---
 
@@ -46,7 +46,8 @@ This project was created as part of a design and modeling exercise to produce a 
 
 ### 🖼️ **Visual Overview**
 Final Draft Diagram
-![Airline Reservation](https://github.com/user-attachments/assets/3a0930ad-8792-4acd-80f6-e2c6438bbbd5)
+![GitHub photo](https://github.com/user-attachments/assets/50aafd83-9f46-434a-9c13-2a38b3721849)
+
 
 
 
